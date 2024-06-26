@@ -1,0 +1,10 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading{
+    letter-spacing: 5px;
+}
+.container{
+    box-shadow: 10px 10px 10px grey;
+}
