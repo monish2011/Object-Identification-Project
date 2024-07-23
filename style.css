@@ -1,10 +1,32 @@
 body{
     background-size: cover;
     background-position: center;
+    background-image: linear-gradient(#a67b5b, #F5F5F5)
 }
 .heading{
     letter-spacing: 5px;
+    width:600px;
+    font-size: 30px;
+    background-color:#EDE8D0;
+    color: #C19A6B
 }
 .container{
     box-shadow: 10px 10px 10px grey;
+    
+    
+}
+.a{
+    border-radius: 20px;
+    background: #EDE8D0;
+    margin-top: 20px;
+    margin-bottom:20px;
+    width:300px;
+    height: 40px;
+    text-align: center;
+    font-size: 23px;
+
+}
+
+a{
+    color: #C19A6B;
 }

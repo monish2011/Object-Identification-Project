@@ -1,0 +1,35 @@
+.heading{
+    letter-spacing: 5px;
+    width:600px;
+    font-size: 30px;
+    background-color:#EDE8D0;
+    color: #C19A6B
+}
+body{
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(#a67b5b, #F5F5F5)
+}
+button{
+margin-right: 100%;
+margin-bottom: 100%;
+background-color: transparent;
+height:30px;
+width: 30px;
+}
+.glyphicon{
+    font-size: 30px;
+}
+#status, #number_of_objects{
+    background-color: #EDE8D0;
+    color:#C19A6B;
+    width:100px;
+    border-radius:30px;
+}
+
+    canvas{
+        box-shadow: 10px 10px 10px grey;
+        border-radius:10px;
+       
+    
+    }
